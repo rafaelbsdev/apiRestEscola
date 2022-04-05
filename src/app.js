@@ -17,6 +17,7 @@ import fotoRoutes from './routes/fotoRoutes';
 const whiteList = [
   'http://react2.otaviomiranda.com.br',
   'http://localhost:3001',
+  'http://34.151.197.37',
 ];
 
 const corsOptions = {
